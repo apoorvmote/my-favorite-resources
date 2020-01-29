@@ -10,3 +10,7 @@
 - [Link Contrast Checker](https://webaim.org/resources/linkcontrastchecker/) :- To check contrast between link color, text color and link/text background color
 - [Flat color palettes](https://flatuicolors.com/) :- different flat colors
 - [Color Name & Hue](https://www.color-blindness.com/color-name-hue/) :- For choosing color variable name based on hue for every project.
+
+## Podcast
+
+- [Anchor](https://anchor.fm/) :- It's unlimited free podcast hosting and analytics tool with option to get paid via advertisement. 
