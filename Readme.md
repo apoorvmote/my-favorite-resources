@@ -10,6 +10,7 @@
 - [Link Contrast Checker](https://webaim.org/resources/linkcontrastchecker/) :- To check contrast between link color, text color and link/text background color
 - [Flat color palettes](https://flatuicolors.com/) :- different flat colors
 - [Color Name & Hue](https://www.color-blindness.com/color-name-hue/) :- For choosing color variable name based on hue for every project.
+- [Color scheme/swatch generator](https://coolors.co/) :- for generating quick color scheme for website or app.
 
 ## Podcast
 
