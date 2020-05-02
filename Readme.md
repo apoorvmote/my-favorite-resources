@@ -15,3 +15,7 @@
 ## Podcast
 
 - [Anchor](https://anchor.fm/) :- It's unlimited free podcast hosting and analytics tool with option to get paid via advertisement. 
+
+## Email
+
+- [Subject Line Tester](https://sendcheckit.com/email-subject-line-tester) :- test for spam score and grammar level of subject line.
