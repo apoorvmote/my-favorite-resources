@@ -19,3 +19,4 @@
 ## Email
 
 - [Subject Line Tester](https://sendcheckit.com/email-subject-line-tester) :- test for spam score and grammar level of subject line.
+- [Full email test](https://www.mail-tester.com/) :- before sending email to whole list; send email to address on this page.
