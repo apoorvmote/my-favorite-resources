@@ -1,0 +1,11 @@
+version: '3'
+
+vars:
+  COMMIT_MESSAGE: added emoji cheat sheet
+
+tasks:
+  default:
+    cmds:
+      - git add .
+      - git commit -m "{{.COMMIT_MESSAGE}}"
+      - git push origin master

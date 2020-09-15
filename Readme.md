@@ -20,3 +20,7 @@
 
 - [Subject Line Tester](https://sendcheckit.com/email-subject-line-tester) :- test for spam score and grammar level of subject line.
 - [Full email test](https://www.mail-tester.com/) :- before sending email to whole list; send email to address on this page.
+
+## Emoji
+
+- [Emoji Cheat sheet for Hugo Markdown](https://www.webfx.com/tools/emoji-cheat-sheet/):- just copy and paste emoji code in markdown and it will be converted automatically.
