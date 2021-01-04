@@ -1,7 +1,7 @@
 version: '3'
 
 vars:
-  COMMIT_MESSAGE: added emoji cheat sheet
+  COMMIT_MESSAGE: updated copyright
 
 tasks:
   default:
