@@ -24,3 +24,4 @@
 ## Emoji
 
 - [Emoji Cheat sheet for Hugo Markdown](https://www.webfx.com/tools/emoji-cheat-sheet/):- just copy and paste emoji code in markdown and it will be converted automatically.
+- [Emoji Cheat sheet for Github Markdown](https://github.com/ikatyang/emoji-cheat-sheet):- Full list of github compatible emoji.

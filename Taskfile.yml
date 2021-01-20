@@ -1,7 +1,7 @@
 version: '3'
 
 vars:
-  COMMIT_MESSAGE: updated copyright
+  COMMIT_MESSAGE: updated emoji
 
 tasks:
   default:
